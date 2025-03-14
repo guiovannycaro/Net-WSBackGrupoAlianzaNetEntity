@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackGrupoAlianzaNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7EA6A-A43A-404E-9F0B-C0A584504EBB}|WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackgrupoalianzanet\\wsbackgrupoalianzanet\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B7EA6A-A43A-404E-9F0B-C0A584504EBB}|WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet.csproj|solutionrelative:wsbackgrupoalianzanet\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B7EA6A-A43A-404E-9F0B-C0A584504EBB}|WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet.csproj|e:\\programacion\\opt\\visualstudioprojects\\wsbackgrupoalianzanet\\wsbackgrupoalianzanet\\models\\ansewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B7EA6A-A43A-404E-9F0B-C0A584504EBB}|WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet.csproj|solutionrelative:wsbackgrupoalianzanet\\models\\ansewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeguridadController.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet\\Controllers\\SeguridadController.cs",
+              "RelativeDocumentMoniker": "WSBackGrupoAlianzaNet\\Controllers\\SeguridadController.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet\\Controllers\\SeguridadController.cs",
+              "RelativeToolTip": "WSBackGrupoAlianzaNet\\Controllers\\SeguridadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:10:12.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ansewer.cs",
+              "DocumentMoniker": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet\\Models\\Ansewer.cs",
+              "RelativeDocumentMoniker": "WSBackGrupoAlianzaNet\\Models\\Ansewer.cs",
+              "ToolTip": "E:\\Programacion\\opt\\VisualStudioProjects\\WSBackGrupoAlianzaNet\\WSBackGrupoAlianzaNet\\Models\\Ansewer.cs",
+              "RelativeToolTip": "WSBackGrupoAlianzaNet\\Models\\Ansewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:51:33.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

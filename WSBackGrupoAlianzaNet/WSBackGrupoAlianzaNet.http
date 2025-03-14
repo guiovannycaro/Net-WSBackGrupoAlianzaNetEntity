@@ -1,0 +1,6 @@
+@WSBackGrupoAlianzaNet_HostAddress = http://localhost:5037
+
+GET {{WSBackGrupoAlianzaNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
